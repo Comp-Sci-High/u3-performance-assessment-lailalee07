@@ -1,3 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/HARs_Oy5)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17629803&assignment_repo_type=AssignmentRepo)
-# node-template
+1. I choose this project because I wasn't able to get my hair doee and I was really mad about it. My mom and I always have a big confusion on who we want to braid my hair bcause some braiders up te price for something so simple. 
+
+2.My api is show people who would like to get their hair done different hairstyles when they have no clue on what to get done to their hair. It shows them prices hairstyles with descriptions , braiders and what they are best at doing. If you use /api/hairstyle/price/description you will see the hairstyles with their price and description.Then if you go to /api/braiders/bestAt you will see braiders and what they are best at. When the user also puts "?/" and "/docs";"/" will take them to a Welcome page. In addition "/docs" will take them to a page where they can see what endpoints to put to see the information.
+
+3.I think it was kind of cool building my own api because I really struggled the the api unit. So seeing this in affect really was mind opening.
